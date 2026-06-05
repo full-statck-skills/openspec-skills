@@ -1,0 +1,29 @@
+{
+  "name": "openspec-skills",
+  "version": "1.0.0",
+  "description": "OpenSpec spec-driven development workflow skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/openspec-skills",
+  "repository": "https://github.com/full-statck-skills/openspec-skills",
+  "source": "./",
+  "skills": [
+    "./skills/openspec-apply",
+    "./skills/openspec-archive",
+    "./skills/openspec-bulk-archive",
+    "./skills/openspec-config",
+    "./skills/openspec-continue",
+    "./skills/openspec-explore",
+    "./skills/openspec-ff",
+    "./skills/openspec-initial",
+    "./skills/openspec-install",
+    "./skills/openspec-new",
+    "./skills/openspec-onboard",
+    "./skills/openspec-schema",
+    "./skills/openspec-sync",
+    "./skills/openspec-update",
+    "./skills/openspec-verify"
+  ]
+}
