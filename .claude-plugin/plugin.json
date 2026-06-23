@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/openspec-skills",
-  "repository": "https://github.com/full-statck-skills/openspec-skills",
+  "homepage": "https://github.com/full-stack-skills/openspec-skills",
+  "repository": "https://github.com/full-stack-skills/openspec-skills",
   "source": "./",
   "skills": [
     "./skills/openspec-apply",
