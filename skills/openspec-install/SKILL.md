@@ -1,5 +1,6 @@
 ---
 name: openspec-install
+license: Apache-2.0
 description: Install the OpenSpec CLI globally via npm, pnpm, yarn, bun, or nix. Use when the user says "install OpenSpec", "set up OpenSpec", or "openspec command not found".
 ---
 

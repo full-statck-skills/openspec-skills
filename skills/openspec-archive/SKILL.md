@@ -1,5 +1,6 @@
 ---
 name: openspec-archive
+license: Apache-2.0
 description: Archive a completed change with `/opsx:archive`, merging delta specs into main specs and preserving the change for history. Use when the user says "archive the change", "finish up", "/opsx:archive", or "mark this change as done".
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: openspec-apply
+license: Apache-2.0
 description: Implement tasks from the change using `/opsx:apply`, working through the task list and checking off items. Use when the user says "implement", "apply the change", "/opsx:apply", or "start coding from tasks".
 ---
 

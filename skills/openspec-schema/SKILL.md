@@ -1,5 +1,6 @@
 ---
 name: openspec-schema
+license: Apache-2.0
 description: Create and manage custom workflow schemas using `openspec schema init/fork/validate/which`. Use when the user says "create a custom workflow", "custom schema", "fork a schema", or wants to define their own artifact types and dependencies.
 ---
 

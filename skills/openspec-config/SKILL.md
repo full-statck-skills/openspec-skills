@@ -1,5 +1,6 @@
 ---
 name: openspec-config
+license: Apache-2.0
 description: Configure OpenSpec project settings and global CLI configuration using `openspec/config.yaml` and `openspec config` commands. Use when the user says "configure OpenSpec", "project config", "add project context", or wants to set per-artifact rules.
 ---
 

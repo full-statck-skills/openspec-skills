@@ -1,5 +1,6 @@
 ---
 name: openspec-sync
+license: Apache-2.0
 description: Sync delta specs from a change into main specs using `/opsx:sync`, without archiving the change. Use when the user says "sync specs", "merge specs to main", "/opsx:sync", or needs to update main specs mid-change.
 ---
 

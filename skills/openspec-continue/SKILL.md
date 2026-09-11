@@ -1,5 +1,6 @@
 ---
 name: openspec-continue
+license: Apache-2.0
 description: Create the next artifact in the dependency chain with `/opsx:continue`, building up a change incrementally. Use when the user says "continue the change", "create next artifact", "/opsx:continue", or wants step-by-step artifact creation.
 ---
 

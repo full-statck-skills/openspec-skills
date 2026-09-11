@@ -1,5 +1,6 @@
 ---
 name: openspec-initial
+license: Apache-2.0
 description: Run `openspec init` to initialize OpenSpec in a project directory, creating the openspec/ folder structure and configuring AI tool integrations. Use when the user says "initialize OpenSpec", "openspec init", or "set up OpenSpec in this project".
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: openspec-onboard
+license: Apache-2.0
 description: Guided onboarding through the complete OpenSpec workflow using `/opsx:onboard`, walking the user through a real change in their codebase. Use when the user says "onboard me", "tutorial", "/opsx:onboard", "how does OpenSpec work", or is new to OpenSpec.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: openspec-verify
+license: Apache-2.0
 description: Validate that implementation matches change artifacts using `/opsx:verify`, checking completeness, correctness, and coherence. Use when the user says "verify implementation", "check my work", "/opsx:verify", or wants quality validation before archiving.
 ---
 

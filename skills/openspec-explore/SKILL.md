@@ -1,5 +1,6 @@
 ---
 name: openspec-explore
+license: Apache-2.0
 description: Think through ideas, investigate problems, and clarify requirements before committing to a change using `/opsx:explore`. Use when the user says "explore an idea", "think through this", "investigate options", or wants to brainstorm before creating a formal change.
 ---
 

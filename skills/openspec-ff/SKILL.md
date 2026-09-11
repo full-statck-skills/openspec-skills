@@ -1,5 +1,6 @@
 ---
 name: openspec-ff
+license: Apache-2.0
 description: Fast-forward through artifact creation with `/opsx:ff`, generating all planning artifacts (proposal, specs, design, tasks) at once. Use when the user says "fast forward", "create all artifacts", "/opsx:ff", or has a clear picture of what to build.
 ---
 

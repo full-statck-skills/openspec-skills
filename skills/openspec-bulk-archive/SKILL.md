@@ -1,5 +1,6 @@
 ---
 name: openspec-bulk-archive
+license: Apache-2.0
 description: Archive multiple completed changes at once with `/opsx:bulk-archive`, handling spec conflicts between changes. Use when the user says "archive all changes", "bulk archive", "/opsx:bulk-archive", or has multiple completed changes.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: openspec-new
+license: Apache-2.0
 description: Start a new OpenSpec change with `/opsx:new`, creating a change folder with metadata and scaffolding. Use when the user says "start a new change", "new feature", "/opsx:new", or "create an OpenSpec change".
 ---
 
